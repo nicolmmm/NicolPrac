@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Calander() {
   return (
     <div className="bg-white">
       <div className="container">
-        <h2 className="text-lg text-center">Nicol's new project</h2>
+        <h2 className="text-lg text-center">Calander page</h2>
       </div>
     </div>
   )
